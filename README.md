@@ -1,6 +1,5 @@
-# pinecil
+# Pinecil V2 Bluetooth Client
 
-Bluetooth client for Pinecil V2
+This is a slightly modified version of the https://github.com/joric/pinecil
 
-* Live demo: https://joric.github.io/pinecil
-* Wiki: https://github.com/joric/pinecil/wiki
+The version with dark background can be found in the folder `dark`.
